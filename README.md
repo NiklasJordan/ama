@@ -1,6 +1,6 @@
 # NiklasJordan/ama
 
-A repository to ask [@NiklasJordan](https://twitter.com/niklas_jordan) anything.
+A repository to ask [Niklas Jordan](https://twitter.com/niklas_jordan) anything.
 
 I explore different ways to use technology for social and environmental good. I’m doing this professionally since 2008. Actually, I’m helping organisations to use Earth observation technology with environmental impact and human rights in mind. With [OpenSpaceData](https://www.openspacedata.org/) I’ve founded an organisation with the mission to democratizing satellite data – through easy to use tools and education. If you have a question you're interested in reading me tap out a response for, this is just the joint for you. I've just founded [DisasterTech](https://www.disaster-tech.org/), a global community of people who develop tools that help humans in crisis situations.
 
